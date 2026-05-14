@@ -18,8 +18,8 @@ SECTION .text
 
 	mov r8, buff
 	mov bl, [r8]
-;	mov bl, r8			; We cannot copy a larger register into a smaller register
-	mov r8, bl			; We can copy a smaller register into a larger register
+;	mov bl, r8				; We cannot copy a larger register into a smaller register
+	movzx r8, bl			; We can copy a smaller register into a larger register (here we zero-fill)
 
 	mov rax, 60
 	mov rdi, 0
