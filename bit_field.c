@@ -1,5 +1,5 @@
 /********************************************************
- * Title:          Basic Bit Field								*
+ * Title:          Basic Bit Field						*
  * Creator:        John J. Coleman						*
  * Creation Date:  2026.05.14							*
  * Modified Date:  2026.05.14							*
