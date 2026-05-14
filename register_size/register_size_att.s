@@ -1,12 +1,12 @@
 #################################################
-# Title		:	Register Sizes		#
-# Creator	:	John J. Coleman		#
-# Creation Date	:	2026.05.14		#
-# Modified Date	:	2026.05.14		#
-# 						#
-# Brief:					#
-# What can we do with different sized 		#
-# registers?					#
+# Title		:	Register Sizes					#
+# Creator	:	John J. Coleman					#
+# Creation Date	:	2026.05.14					#
+# Modified Date	:	2026.05.14					#
+# 												#
+# Brief:										#
+# What can we do with different sized 			#
+# registers?									#
 #################################################
 
 .section .data
